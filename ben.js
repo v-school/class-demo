@@ -1,4 +1,7 @@
-console.log('im ben!');
+
 // ANOTHER CHANGE IS HAPPENING
-//DERP A DERP
-x + 4
+const message = console.log('im ben!');
+
+while(true){
+    message;
+}
