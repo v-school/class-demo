@@ -1,2 +1,4 @@
 console.log('g-money!!')
-console.log("ANOTHIER ONE!")
+console.log("HELLO ONE!")
+console.log('FOEVER!!!!!!!!!!')
+console.log('FOEVER!!!!!!!!!!')
